@@ -1,0 +1,126 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.title {
+  width: 375px;
+  height: 747px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.campus {
+  width: 300px;
+  height: 60px;
+  background: url("campus.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+
+  overflow: hidden;
+}
+.delicious
+ {
+  width: 300px;
+  color: rgba(240,108,20,1);
+
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.fresh {
+  width: 300px;
+  color: rgba(30,30,30,1);
+
+  font-family: Inter;
+  font-weight: Italic;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.mac {
+  width: 76px;
+  height: 75px;
+  background: url("mac.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+
+  overflow: hidden;
+}
+.pasta {
+  width: 75px;
+  height: 75px;
+  background: url("pasta.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+
+  overflow: hidden;
+}
+.taco {
+  width: 75px;
+  height: 75px;
+  background: url("taco.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+
+  left: 32px;
+  overflow: hidden;
+}
+.ench {
+  width: 75px;
+  height: 75px;
+  background: url("ench.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+
+  overflow: hidden;
+}
+.foodtxt {
+  width: 129px;
+  color: rgba(30,30,30,1);
+
+  font-family: Karma;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.price {
+  width: 75px;
+  color: rgba(30,30,30,1);
+
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: center;
+}
+
+.order {
+  width: 69px;
+  height: 32px;
+  background: url("order.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+
+  overflow: hidden;
+}
